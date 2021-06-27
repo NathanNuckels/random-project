@@ -1,0 +1,4 @@
+tex/plywood_diff_8k.png filter=lfs diff=lfs merge=lfs -text
+hdri/rooitou_park.hdr filter=lfs diff=lfs merge=lfs -text
+hdri/quarry.hdr filter=lfs diff=lfs merge=lfs -text
+tex/plywood_nor_8k.png filter=lfs diff=lfs merge=lfs -text
